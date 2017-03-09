@@ -17,6 +17,7 @@ public class BinarySearch {
 	
 	if(temp==sum){
 		System.out.println("is a pallindrome");
+System.out.println("is a pallindrome");
 	}else System.out.println("not a pallindrome");
 	}
 		
