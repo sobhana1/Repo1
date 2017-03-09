@@ -1,10 +1,1 @@
- Volume in drive C is WINDOWS
- Volume Serial Number is 9AE7-49A5
-
- Directory of C:\Users\U53643\Desktop\GitDemo
-
-03/09/2017  12:19 PM    <DIR>          .
-03/09/2017  12:19 PM    <DIR>          ..
-03/09/2017  12:19 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  57,547,157,504 bytes free
+test 1 change
